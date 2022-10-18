@@ -52,6 +52,12 @@ Now open up your terminal and enter the following cmd's.
 ```bash
   dotnet restore
 ```
+```bash
+  dotnet run
+```
+
+That's all Enjoy The Game N😊w.
+
 
 If you find any error in the installation, repeat all the step's and
 if then even problem not resolves so let us know we will fix it.
